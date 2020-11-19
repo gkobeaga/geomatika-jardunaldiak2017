@@ -7,7 +7,7 @@ Geomatika eta Inteligentzia Espaziala 2017 jardunaldian erabilitako materiala
 
 | Baliabidea | Iturria |
 | --- | --- |
-| Data | [OpenDataEuskadi](http://www.eustat.euskadi.eus/t35-udalmap/en/contenidos/informacion/udalmap/en_udalmap/udalmap.html) |
+| Datuak | [OpenDataEuskadi](http://www.eustat.euskadi.eus/t35-udalmap/en/contenidos/informacion/udalmap/en_udalmap/udalmap.html) |
 | Datuak | [Gaindegia](http://www.datuak.eus) |
 | Maps | [Gaindegia](http://www.euskalgeo.eus) |
 
