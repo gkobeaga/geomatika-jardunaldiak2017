@@ -11,9 +11,9 @@ Geomatika eta Inteligentzia Espaziala 2017 jardunaldian erabilitako materiala
 | Datuak | [Gaindegia](http://www.datuak.eus) |
 | Maps | [Gaindegia](http://www.euskalgeo.eus) |
 
-## Software menpekotasunak
+## Software mendekotasunak
 
-  GDAL erabiltzeko hurrengo menpekotasunak instalatu behar ditugu sisteman:
+  GDAL erabiltzeko hurrengo mendekotasunak instalatu behar ditugu sisteman:
 
 ```sh
 sudo aptitude install libgdal-dev
