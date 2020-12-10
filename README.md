@@ -13,7 +13,7 @@ Geomatika eta Inteligentzia Espaziala 2017 jardunaldian erabilitako materiala
 
 ## Software menpekotasunak
 
-  GDAL erabiltzeko R-rekin SE-n hurrengo instaltu behar dugu:
+  GDAL erabiltzeko hurrengo menpekotasunak instalatu behar ditugu sisteman:
 
 ```sh
 sudo aptitude install libgdal-dev
@@ -24,4 +24,3 @@ Bestetik, R-n pakete batzuk instalatu behar ditugu:
 ```
 readxl, ckanr, dplyr, tidyr, stringi, stringr, rgdal, ggplot2, ggthemes
 ```
-
